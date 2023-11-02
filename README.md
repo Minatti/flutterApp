@@ -47,10 +47,9 @@ Aponte para o caminho onde extraiu o flutter
 "D:\DevApp\flutter\bin" OK.
 
 Finalizado esta parte 
-abra o terminal(prompt)
-digite "where flutter dart"
+*abra o terminal(prompt)
+*digite "where flutter dart"
 
-<img>
 retorno = "C:\Users\workcarminatti>where flutter dart
 D:\DevApp\flutter\bin\flutter
 D:\DevApp\flutter\bin\flutter.bat
@@ -59,10 +58,9 @@ D:\DevApp\flutter\bin\dart.bat"
 
 Vá para o seu diretório de desenvolvimento
 
-Digite o seguinte comando "flutter doctor"
+* Digite o seguinte comando "flutter doctor"
 
 Será retornado um relatório de status referente as instalações
 
-<img>
 
-Vou optar por continuar a configuração com o editor vscode e não Android Studio.
+*Vou optar por continuar a configuração com o editor vscode e não Android Studio.
