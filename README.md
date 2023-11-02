@@ -6,7 +6,7 @@ My first project with flutter
 
 * https://flutter.dev/
 
-* Para cada tipo de sistema operacional poderá ser diferente, no meu caso estarei configurando para o Windows e seguirei as instruções da documentação.
+* Para cada tipo de sistema operacional é de uma forma, no meu caso estarei configurando para o Windows e seguirei as instruções da documentação.
 
 ** Requisitos do Sistema
 
@@ -34,15 +34,23 @@ Do not install Flutter in a directory like C:\Program Files\ that requires eleva
 *Update your path
 
 vá na barra iniciar e digite env e dê enter
+
 abrirá a janela propriedades do sistema
+
 Acesse Variáveis de Ambiente
+
 Em Path, selecione para editar e clique
-Clique em Novo
+
+Procure por novo e clique em Novo
+
 Aponte para o caminho onde extraiu o flutter
 "D:\DevApp\flutter\bin" OK.
 
-Finalizado esta parte, abra o terminal(prompt)
+Finalizado esta parte 
+abra o terminal(prompt)
 digite "where flutter dart"
+
+<img>
 retorno = "C:\Users\workcarminatti>where flutter dart
 D:\DevApp\flutter\bin\flutter
 D:\DevApp\flutter\bin\flutter.bat
@@ -50,6 +58,11 @@ D:\DevApp\flutter\bin\dart
 D:\DevApp\flutter\bin\dart.bat"
 
 Vá para o seu diretório de desenvolvimento
+
 Digite o seguinte comando "flutter doctor"
+
 Será retornado um relatório de status referente as instalações
-Bom, no meu caso vou optar por continuar a configuração com o editor vscode e não Android Studio.
+
+<img>
+
+Vou optar por continuar a configuração com o editor vscode e não Android Studio.
