@@ -47,8 +47,8 @@ Aponte para o caminho onde extraiu o flutter
 "D:\DevApp\flutter\bin" OK.
 
 Finalizado esta parte 
-*abra o terminal(prompt)
-*digite "where flutter dart"
+* abra o terminal(prompt)
+* digite "where flutter dart"
 
 retorno = "C:\Users\workcarminatti>where flutter dart
 D:\DevApp\flutter\bin\flutter
