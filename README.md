@@ -2,36 +2,15 @@
 My first project with flutter
 
 
-0. Como instalar Flutter e configurar?
-
-* https://flutter.dev/
-
-* Para cada tipo de sistema operacional é de uma forma, no meu caso estarei configurando para o Windows e seguirei as instruções da documentação.
-
-** Requisitos do Sistema
-
-Setup
-Windows 10 x64
-
-*Get the Flutter SDK
-Baixar Flutter SDK
-
-1. Download the following installation bundle to get the latest stable release of the Flutter SDK:
-
-Baixar a última versão disponível para Flutter SDK
-
-2. Extract the zip file and place the contained flutter in the desired installation location for the Flutter SDK (for example, %USERPROFILE%\flutter, D:\dev\flutter).
-
-Extrair o arquivo zip para um local, de preferência não extraia para o "C:\", pois conforme informado na nota vai requerir previlégio elevado.
-
-No meu caso fiz a extração em "D:\DevApp\"
-
-Note: Do not install Flutter to a path that contains special characters or spaces.
-
-Do not install Flutter in a directory like C:\Program Files\ that requires elevated privileges.
-
-
-*Update your path
+* [Install and config Flutter OnWindows]
+* [Page] https://flutter.dev/
+* [0] Get the Flutter SDK
+* [0.1] Download the following installation bundle to get the latest stable release of the Flutter SDK:
+* [0.2] Extract the zip file and place the contained flutter in the desired installation location for the Flutter SDK (for example, %USERPROFILE%\flutter, D:\dev\flutter).
+  ** Path = "D:\DevApp\"
+  ** Note: Do not install Flutter to a path that contains special characters or spaces.
+  ** Do not install Flutter in a directory like C:\Program Files\ that requires elevated privileges.
+* [0.3] Update your path
 
 vá na barra iniciar e digite env e dê enter
 
