@@ -35,12 +35,8 @@ Page: https://flutter.dev/
    ** Finalizado esta parte...
 * [1.7] abra o terminal(prompt)
 * [1.8] digite "where flutter dart"
-- `Retorno:
-           "C:\Users\workcarminatti>where flutter dart
-            D:\DevApp\flutter\bin\flutter
-            D:\DevApp\flutter\bin\flutter.bat
-            D:\DevApp\flutter\bin\dart
-            D:\DevApp\flutter\bin\dart.bat"`
+   * img 
+   ![where_dart](https://github.com/Minatti/flutterApp/assets/28359612/6ee72e8b-ecb0-4e4c-b2ba-03e0c757f8a7)
 * [1.9] Vá para o seu diretório de desenvolvimento
 * [2.0] Digite o seguinte comando "flutter doctor"
   **Será retornado um relatório de status referente as instalações
