@@ -21,7 +21,7 @@ Page: https://flutter.dev/
 * [0.1] Instale a versão mais atualizada do Flutter SDK.  
 * [0.2] Extraia o arquivo zip em um diretório. 
    * Na documentação não é indicado instalar no "C:\".
-   * Diretório que eu criei "D:\DevApp\".
+   * Diretório que eu extrai "D:\DevApp\".
    * Não use characters or spaces neste apontamento.
 
 1.Configure a variavél de ambiente path
