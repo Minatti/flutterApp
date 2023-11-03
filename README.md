@@ -35,12 +35,10 @@ Page: https://flutter.dev/
    ** Finalizado esta parte...
 * [1.7] abra o terminal(prompt)
 * [1.8] digite "where flutter dart"
-   * img 
    ![where_dart](https://github.com/Minatti/flutterApp/assets/28359612/6ee72e8b-ecb0-4e4c-b2ba-03e0c757f8a7)
-* [1.9] Vá para o seu diretório de desenvolvimento
-* [2.0] Digite o seguinte comando "flutter doctor"
-  **Será retornado um relatório de status referente as instalações
-
+* [1.9] Digite o seguinte comando "flutter doctor"
+   ![image](https://github.com/Minatti/flutterApp/assets/28359612/3c80a9ad-5d99-437d-b0a0-768ba5abf229)
+   * Note que temos alguns X mas são apenas para o que não iremos utilizar: `Android Toolchain, Android Studio, Visual Studio para apps do Windows`
 </p>
 
-* [2.1] Vou optar por continuar a configuração com o editor VScode e não Android Studio.
+## Instalando VSCODE
