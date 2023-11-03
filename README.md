@@ -16,14 +16,14 @@ My first project with flutter
 <p align="justify">
 Page: https://flutter.dev/
 
-0. Baixe Flutter SDK
+0. Baixar Flutter SDK
 
 * [0.1] Instale a versão mais atualizada do Flutter SDK.  
 * [0.2] Extraia o arquivo zip em um diretório. 
    ** Na documentação não é indicado instalar no "C:\", por requirementos de previlégios elevados e sim em um diretório alternativo -> "D:\DevApp\"
    ** Não use characters or spaces neste apontamento.
 
-1. Atualize sua pasta
+1. Configure a variavél de ambiente path
 
 * [1.1] vá na barra iniciar e digite env e dê enter
 * [1.2] abrirá a janela propriedades do sistema
