@@ -1,8 +1,9 @@
 # flutterApp
-My first project with flutter
+
+Meu primeiro projeto com Flutter
 
 <hr>
-<img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/>
+
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
