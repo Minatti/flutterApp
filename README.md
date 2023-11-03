@@ -1,8 +1,20 @@
 # flutterApp
 My first project with flutter
 
-# Install and config Flutter OnWindows
-# Page: https://flutter.dev/
+<hr>
+
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
+
+### Tópicos 
+
+- [Instalando Flutter no Windows](#instalando-flutter)
+- [Instalando Vscode](#instalando-vscode)
+
+## Instalando Flutter no Windows
+<p align="justify">
+Page: https://flutter.dev/
 
 0. Get the Flutter SDK (Baixar Flutter SDK)
 
@@ -33,4 +45,9 @@ Finalizado esta parte...
 * [1.9] Vá para o seu diretório de desenvolvimento
 * [2.0] Digite o seguinte comando "flutter doctor"
 ***Será retornado um relatório de status referente as instalações
+
+
+</p>
+
+
 * [2.1] Vou optar por continuar a configuração com o editor VScode e não Android Studio.
