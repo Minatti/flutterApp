@@ -2,6 +2,9 @@
 My first project with flutter
 
 
+Introdução:  O Flutter é um framework que permite o desenvolvimento de aplicativos móveis multiplataforma, e você pode configurar o ambiente de desenvolvimento Flutter diretamente no VSCode.
+
+
 0. Como instalar Flutter e configurar?
 
 * https://flutter.dev/
