@@ -49,9 +49,17 @@ Page: https://flutter.dev/
 
 0. Extensões
 
-* [0.1] Pressione Ctrl+x
+* [0.1] Pressione Ctrl+shift+x
+
+![image](https://github.com/Minatti/flutterApp/assets/28359612/bb6a132c-be55-452a-863f-9e3badd13a67)
+
 * [0.2] Procure por Flutter/Dart e clique para instalar
+
+![image](https://github.com/Minatti/flutterApp/assets/28359612/06c73d25-ee12-4905-b2eb-076618484717)
+
 * [0.3] Procure por Android IOS Emulator e clique para instalar
 
+![image](https://github.com/Minatti/flutterApp/assets/28359612/adea2d05-1760-44f1-95d8-dbb30f49443e)
 
-</>
+
+</p>
