@@ -4,10 +4,6 @@ Meu primeiro projeto com Flutter
 
 <hr>
 
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
-</p>
-
 ### Tópicos 
 
 - [Instalando Flutter no Windows](#instalando-flutter)
@@ -57,6 +53,3 @@ Meu primeiro projeto com Flutter
 
 ![image](https://github.com/Minatti/flutterApp/assets/28359612/06c73d25-ee12-4905-b2eb-076618484717)
 
-* [0.3] Procure por Android IOS Emulator e clique para instalar
-
-![image](https://github.com/Minatti/flutterApp/assets/28359612/adea2d05-1760-44f1-95d8-dbb30f49443e)
