@@ -15,7 +15,7 @@ Meu primeiro projeto com Flutter
 
 ## Instalando Flutter no Windows
 <p align="justify">
-Page: https://flutter.dev/
+<a href="https://flutter.dev/" alt="doc flutter">DevFlutter</a>
 
 0. Baixar Flutter SDK
 
