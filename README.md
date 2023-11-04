@@ -11,7 +11,7 @@ Meu primeiro projeto com Flutter
 ### Tópicos 
 
 - [Instalando Flutter no Windows](#instalando-flutter)
-- [Instalando Vscode](#instalando-vscode)
+- [Configurando Vscode](#config-vscode)
 
 ## Instalando Flutter no Windows
 <p align="justify">
@@ -25,7 +25,7 @@ Page: https://flutter.dev/
    * Diretório que eu extrai "D:\DevApp\".
    * Não use characters or spaces neste apontamento.
 
-1.Configure a variavél de ambiente path
+1. Configure a variavél de ambiente path
 
 * [1.1] vá na barra iniciar e digite env e dê enter
 * [1.2] abrirá a janela propriedades do sistema
@@ -42,4 +42,16 @@ Page: https://flutter.dev/
    * Note que temos alguns X mas são apenas para o que não iremos utilizar: `Android Toolchain, Android Studio, Visual Studio para apps do Windows`
 </p>
 
-## Instalando VSCODE
+## Configurando VSCODE
+
+<p align="justify">
+
+
+0. Extensões
+
+* [0.1] Pressione Ctrl+x
+* [0.2] Procure por Flutter/Dart e clique para instalar
+* [0.3] Procure por Android IOS Emulator e clique para instalar
+
+
+</>
