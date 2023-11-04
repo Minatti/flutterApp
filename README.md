@@ -14,8 +14,9 @@ Meu primeiro projeto com Flutter
 - [Configurando Vscode](#config-vscode)
 
 ## Instalando Flutter no Windows
+<a href="https://flutter.dev/" alt="doc flutter">Documentação Oficial do Framework</a>
+<hr>
 <p align="justify">
-<a href="https://flutter.dev/" alt="doc flutter">DevFlutter</a>
 
 0. Baixar Flutter SDK
 
